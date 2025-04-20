@@ -1,5 +1,6 @@
 .foto-rio {
-  border-radius: 10px;
+  border-radius: 50%;
+  border: 4px solid #67dd0a;
 }
 .introducao {
   max-width: 1200px;
